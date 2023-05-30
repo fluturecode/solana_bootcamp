@@ -1,7 +1,7 @@
 {
-  "name": "Briny Brim",
-  "description": "Collection of 32 pirate ships. This is the number 15/32.",
-  "image": "14.png",
+  "name": "High Seas",
+  "description": "Collection of 32 pirate ships. This is the number 1/32.",
+  "image": "0.png",
   "attributes": [
     {
       "trait_type": "Number",
@@ -11,7 +11,7 @@
   "properties": {
     "files": [
       {
-        "uri": "14.png",
+        "uri": "0.png",
         "type": "image/png"
       }
     ],

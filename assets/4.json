@@ -1,4 +1,20 @@
 {
   "name": "Storm's Fury",
-  "image": "4.png"
+  "description": "Collection of 32 pirate ships. This is the number 5/32.",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }

@@ -1,4 +1,20 @@
 {
   "name": "Neptune's Wrath",
-  "image": "12.png"
+  "description": "Collection of 32 pirate ships. This is the number 13/32.",
+  "image": "12.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12uytaIUYTDSwertoz.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }

@@ -1,4 +1,20 @@
 {
   "name": "Black Pearl",
-  "image": "1.png"
+  "description": "Collection of 32 pirate ships. This is the number 2/32.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
