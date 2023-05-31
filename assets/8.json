@@ -1,0 +1,20 @@
+{
+  "name": "Kraken",
+  "description": "Collection of 32 pirate ships. This is the number 9/32.",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

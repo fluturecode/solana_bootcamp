@@ -1,0 +1,20 @@
+{
+  "name": "The Dreadnought",
+  "description": "Collection of 32 pirate ships. This is the number 8/32.",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

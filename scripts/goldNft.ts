@@ -1,8 +1,10 @@
-/**
- * Demonstrates how to create a SPL token and store it's metadata on chain (using the Metaplex MetaData program)
- */
+// Payer address: 61obWyXwPoqLvxJMDMppRiVmP7jqtASRJhGjy5PTRgN8
+// Test wallet address: FaCNiJCLh4PoUQMxkcyaotbZZv4Lh6LS1reLPWG9vaHH
+// https://explorer.solana.com/address/61obWyXwPoqLvxJMDMppRiVmP7jqtASRJhGjy5PTRgN8?cluster=devnet
 
-// import custom helpers for demos
+// Mint address: 5AUraj3S7F4VGR2nVB2WvnLoCEm4qoGhxbhQRt5aQqNP
+// Metadata address: C8LrpagaaMeV3FTrGBwLdm7F6ypQiUKVMBouuwmo8yHn
+
 import { payer, testWallet, connection } from "@/lib/vars";
 
 import {
@@ -29,16 +31,11 @@ import {
 } from "@metaplex-foundation/mpl-token-metadata";
 
 (async () => {
-  //////////////////////////////////////////////////////////////////////////////
-  //////////////////////////////////////////////////////////////////////////////
 
   console.log("Payer address:", payer.publicKey.toBase58());
   console.log("Test wallet address:", testWallet.publicKey.toBase58());
 
-  //////////////////////////////////////////////////////////////////////////////
-  //////////////////////////////////////////////////////////////////////////////
-
-  // generate a new keypair to be used for our mint
+  console.log(explorerURL({address:payer.publicKey.toBase58()}));
   const mintKeypair = Keypair.generate();
 
   console.log("Mint address:", mintKeypair.publicKey.toBase58());

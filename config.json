@@ -1,0 +1,22 @@
+{
+  "tokenStandard": "nft",
+  "number": 15,
+  "symbol": "WNS",
+  "sellerFeeBasisPoints": 5,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "61obWyXwPoqLvxJMDMppRiVmP7jqtASRJhGjy5PTRgN8",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Iron Maiden",
+  "description": "Collection of 32 pirate ships. This is the number 11/32.",
+  "image": "10.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

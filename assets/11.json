@@ -1,0 +1,20 @@
+{
+  "name": "Shadow's End",
+  "description": "Collection of 32 pirate ships. This is the number 12/32.",
+  "image": "11.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "11.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
