@@ -1,3 +1,5 @@
+// Candy machine ID: 9sxCrjqo4Ado8s4wx1HSQjXSH6ockSHMzAEx4bsVrRMi
+
 import { payer, connection } from "@/lib/vars";
 import { explorerURL, loadPublicKeysFromFile, printConsoleSeparator } from "@/lib/helpers";
 
